@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ronaldo Tiou</h1>
-<h3 align="center">A passionate backend developer from Brazil.</h3>
+<h3 align="center">A passionate backend developer from Brazil🇧🇷. Living in the Netherlands🇳🇱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtiou&label=Profile%20views&color=0e75b6&style=flat" alt="rtiou" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rtiou" alt="rtiou" /> </p>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=rtiou&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
